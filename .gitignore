@@ -1,0 +1,7 @@
+PilotQA_AI/env/
+PilotQA_AI/tokenless-usage.json
+PilotQA_AI/cli/
+.DS_Store
+node_modules/
+dist/
+*.log

@@ -1,0 +1,17 @@
+{
+  "name": "pilotqa-ai-runtime",
+  "version": "1.0.0",
+  "description": "Client-only runtime of PilotQA AI for Playwright",
+  "private": false,
+  "type": "module",
+  "main": "PilotQA_AI/pilotqa-ai.ts",
+  "files": [
+    "PilotQA_AI/**",
+    "README.md",
+    ".env.example"
+  ],
+  "dependencies": {
+    "@langchain/google-genai": "^0.2.10",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
